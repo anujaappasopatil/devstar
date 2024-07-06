@@ -117,9 +117,9 @@
             }
         ]
     },
-    "gradient-generator": {
+    "Gradient-generator": {
         "name": "Gradient Generator",
-        "link": "/gradient-generator",
+        "link": "/Gradient-generator",
         "description": "The Gradient Generator is a tool for Developers which allows you to create Gradient between 2 Colors and Copy its CSS Output.",
         "contributors": [
             {
@@ -288,6 +288,49 @@
             {
                 "name": "Hannan Satopay",
                 "githubId": "hannansatopay"
+            }
+        ]
+    },
+<<<<<<< Updated upstream
+    "SVG-Placeholder-Generator": {
+        "name": "SVG Placeholder Generator",
+        "link": "/SVG-Placeholder-Generator",
+        "description": "Generate svg images to use as a placeholder in your applications",
+=======
+    "SVG Placeholder Generator": {
+        "name": "SVG Placeholder Generator",
+        "link": "/SVG Placeholder Generator",
+        "description": "",
+>>>>>>> Stashed changes
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "ANKITA MISHRA",
+                "githubId": "ANKITAMISHRA29"
+            },
+            {
+<<<<<<< Updated upstream
+                "name": "IQRA MIYAJI",
+                "githubId": "IqraMiyaji"
+=======
+                "name": "",
+                "githubId": ""
+>>>>>>> Stashed changes
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
             }
         ]
     },
