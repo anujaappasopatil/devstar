@@ -291,10 +291,17 @@
             }
         ]
     },
+<<<<<<< Updated upstream
     "SVG-Placeholder-Generator": {
         "name": "SVG Placeholder Generator",
         "link": "/SVG-Placeholder-Generator",
         "description": "Generate svg images to use as a placeholder in your applications",
+=======
+    "SVG Placeholder Generator": {
+        "name": "SVG Placeholder Generator",
+        "link": "/SVG Placeholder Generator",
+        "description": "",
+>>>>>>> Stashed changes
         "contributors": [
             {
                 "name": "",
@@ -305,8 +312,13 @@
                 "githubId": "ANKITAMISHRA29"
             },
             {
+<<<<<<< Updated upstream
                 "name": "IQRA MIYAJI",
                 "githubId": "IqraMiyaji"
+=======
+                "name": "",
+                "githubId": ""
+>>>>>>> Stashed changes
             },
             {
                 "name": "",
